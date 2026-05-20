@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+flask
+pymongo
+python-dotenv
+psutil
+google-generativeai
